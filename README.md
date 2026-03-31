@@ -12,8 +12,8 @@
 
 | Resource | Link |
 |---|---|
-| 📊 **Live Dashboard** | [View Power BI Dashboard](#) ← *paste your link here* |
-| 📂 **Dataset (Google Drive)** | [Download Dataset](#) ← *paste your link here* |
+| 📊 **Live Dashboard** | [View Power BI Dashboard](https://drive.google.com/file/d/19LSseQue7GsBeKZT_aEFRQLY3EQ82Jzj/view?usp=drive_link) |
+| 📂 **Dataset (Google Drive)** | [Download Dataset](https://docs.google.com/spreadsheets/d/11fLf9pJiaPNlZCAWDx4NRkF1WX1jt0AQ/edit?usp=drive_link&ouid=113413939000598330207&rtpof=true&sd=true)  |
 
 ---
 
@@ -206,8 +206,7 @@ While Loans fluctuate by up to ₹2.9M month-over-month, Bills & Recharge mainta
 ```
 phonepe-transaction-analytics-powerbi/
 │
-├── 📊 PhonePe_Dashboard.pbix        ← Main Power BI file
-│
+├── 📊 PhonePe_Dashboard.pbix        
 ├── 📸 Screenshots/
 │   ├── Homepage.png
 │   ├── Insurance.png
@@ -215,7 +214,7 @@ phonepe-transaction-analytics-powerbi/
 │   ├── Money Transfer.png
 │   └── Bills and Recharge.png
 │
-├── 📂 Dataset/                      ← Hosted on Google Drive (see Quick Access above)
+├── 📂 Dataset/                     
 │   ├── all_transactions.csv
 │   ├── insurance.csv
 │   ├── loans.csv
